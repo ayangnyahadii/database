@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "11/05/2022 23:20:12 WIB",
+    "lintang": "3.71 LU",
+    "bujur": "126.81 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "27 Km",
+    "wilayah": "Pusat gempa berada di laut 36 km tenggara Melonguane",
+    "warning": [
+      "II - III Melonguane",
+      "II - III Naha Tahuna"
+    ]
+  },
+  {
     "waktu": "11/05/2022 09:18:55 WIB",
     "lintang": "3.78 LS",
     "bujur": "119.4 BT",
@@ -228,17 +240,6 @@
     "wilayah": "Pusat gempa berada di darat 0.8 Km Timur Laut Loea",
     "warning": [
       "II-III Kolaka Timur"
-    ]
-  },
-  {
-    "waktu": "03/05/2022 23:44:08 WIB",
-    "lintang": "5.52 LS",
-    "bujur": "105.23 BT",
-    "magnitudo": "2.2",
-    "kedalaman": "3 Km",
-    "wilayah": "Pusat gempa berada di darat 22 km Tenggara Pesawaran",
-    "warning": [
-      "II - III Lempasing"
     ]
   }
 ]
