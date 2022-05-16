@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "16/05/2022 17:13:48 WIB",
+    "lintang": "0.56 LU",
+    "bujur": "122.14 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "77 Km",
+    "wilayah": "Pusat gempa berada di darat 23 km Barat Laut Boalemo",
+    "warning": [
+      "II-III Gorontalo"
+    ]
+  },
+  {
     "waktu": "15/05/2022 06:40:27 WIB",
     "lintang": "4.12 LS",
     "bujur": "121.67 BT",
@@ -226,17 +237,6 @@
     "lintang": "5.52 LS",
     "bujur": "105.21 BT",
     "magnitudo": "2.3",
-    "kedalaman": "3 Km",
-    "wilayah": "Pusat gempa berada di darat 10 km barat daya Bandar Lampung",
-    "warning": [
-      "II Padang Cermin"
-    ]
-  },
-  {
-    "waktu": "08/05/2022 19:52:04 WIB",
-    "lintang": "5.53 LS",
-    "bujur": "105.24 BT",
-    "magnitudo": "2.5",
     "kedalaman": "3 Km",
     "wilayah": "Pusat gempa berada di darat 10 km barat daya Bandar Lampung",
     "warning": [
