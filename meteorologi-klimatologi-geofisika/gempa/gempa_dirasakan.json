@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "28/10/2022 00:36:21 WIB",
+    "lintang": "7.2 LS",
+    "bujur": "121.22 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 128 km tenggara Selayar",
+    "warning": [
+      "III Pulau Jampea"
+    ]
+  },
+  {
     "waktu": "26/10/2022 08:34:01 WIB",
     "lintang": "7.27 LS",
     "bujur": "107.69 BT",
@@ -230,17 +241,6 @@
       "III Tanjung Enim",
       "II-III Muara Enim",
       "II-III Lahat"
-    ]
-  },
-  {
-    "waktu": "18/10/2022 17:57:37 WIB",
-    "lintang": "3.78 LS",
-    "bujur": "128.53 BT",
-    "magnitudo": "3.3",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 30 km Baratdaya Nusalaut",
-    "warning": [
-      "I-II Ambon"
     ]
   }
 ]
