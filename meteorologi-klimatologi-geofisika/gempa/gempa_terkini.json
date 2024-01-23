@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "23-01-24 11:07:21 WIB",
+    "lintang": "-3.96",
+    "bujur": "133.82",
+    "magnitudo": "5.4",
+    "kedalaman": "10 Km",
+    "wilayah": "75 km BaratDaya KAIMANA-PAPUABRT"
+  },
+  {
     "waktu": "19-01-24 00:36:18 WIB",
     "lintang": "-1.10",
     "bujur": "121.45",
@@ -230,13 +238,5 @@
     "magnitudo": "5.5",
     "kedalaman": "72 Km",
     "wilayah": "19 km TimurLaut YAHUKIMO-PAPUAPGNGN"
-  },
-  {
-    "waktu": "10-12-23 11:49:46 WIB",
-    "lintang": "-3.55",
-    "bujur": "141.05",
-    "magnitudo": "5.3",
-    "kedalaman": "105 Km",
-    "wilayah": "39 km Tenggara KEEROM-PAPUA"
   }
 ]
