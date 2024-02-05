@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "05/02/2024 19:38:46 WIB",
+    "lintang": "0.42 LS",
+    "bujur": "124.27 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "15 Km",
+    "wilayah": "Pusat gempa berada di laut 93 km Tenggara Bolaanguki-Bolaang Mongondow Selatan",
+    "warning": [
+      "II - III Banggai Laut"
+    ]
+  },
+  {
     "waktu": "05/02/2024 17:25:16 WIB",
     "lintang": "0.77 LU",
     "bujur": "121.38 BT",
@@ -230,17 +241,6 @@
       "II-III Pariaman",
       "II-III Pasaman Barat",
       "II-III Solok Selatan"
-    ]
-  },
-  {
-    "waktu": "27/01/2024 20:18:48 WIB",
-    "lintang": "8.23 LS",
-    "bujur": "121.17 BT",
-    "magnitudo": "4.3",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 51 km Barat Laut Mbay-Nagekeo",
-    "warning": [
-      "III Ende"
     ]
   }
 ]
